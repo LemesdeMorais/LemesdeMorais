@@ -1,16 +1,41 @@
-## Hi there 👋
+# Oi, eu sou a Rafaela Lemes! 👩🏽‍💻
 
-<!--
-**LemesdeMorais/LemesdeMorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Eu sou uma estudante de DSM - Desenvolvimento de Software Multiplataforma pela FATEC. Completamente apaixonada e motivada pela tecnologia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div>
+    <a href="https://github.com/LemesdeMorais">
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LemesdeMorais&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/LemesdeMorais">
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemesdeMorais&layout=compact&langs_count=16&theme=darcula"/>
+    </a>
+</div>
+
+##
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px;">
+    <img alig="center" alt="Rafa.bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img alig="center" alt="Rafa.canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    <img alig="center" alt="Rafa.cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img alig="center" alt="Rafa.java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img alig="center" alt="Rafa.javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alig="center" alt="Rafa.python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alig="center" alt="Rafa.php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img alig="center" alt="Rafa.html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />                                   
+</div>
+
+##
+
+<div>
+   <a href="https://www.linkedin.com/in/rafaela-morais-a310861b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a> 
+   <a href="https://www.instagram.com/raafalemes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a> 
+</div>
+
+##
+
+![Snake animation](https://github.com/LemesdeMorais)
