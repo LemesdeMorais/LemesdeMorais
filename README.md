@@ -34,8 +34,8 @@ Eu sou uma estudante de DSM - Desenvolvimento de Software Multiplataforma pela F
    </a> 
    <a href="https://www.instagram.com/raafalemes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a> 
-    <a href="https://seu-portfolio.com](https://portfolio-rafaela.vercel.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=about.me&logoColor=white">
+    <a href="https://portfolio-rafaela.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
    </a>
 </div>
 
