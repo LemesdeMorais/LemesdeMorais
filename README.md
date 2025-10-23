@@ -94,37 +94,45 @@ Apaixonada por tecnologia, adoro transformar ideias em código e aprender algo n
 
 
 
-<p align="center">
-  <!-- Projeto Front-end Rafaela -->
-  <a href="https://github.com/LemesdeMorais/Front-end-Rafaela" target="_blank">
-    <img alt="Front-end Rafaela" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=LemesdeMorais&repo=Front-end-Rafaela&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=6EE7F9&bg_color=0d1117" />
-  </a>
-  &nbsp;&nbsp;
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LemesdeMorais/Front-end-Rafaela" target="_blank">
+        <img alt="Front-end-Rafaela" height="40"
+             src="https://img.shields.io/badge/Front--end--Rafaela-%E2%86%92%20abrir-8B5CF6?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LemesdeMorais/lojadegames" target="_blank">
+        <img alt="lojadegames" height="40"
+             src="https://img.shields.io/badge/lojadegames-%E2%86%92%20abrir-8B5CF6?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jmcardoso18/2025.1-PI-2-Semestre" target="_blank">
+        <img alt="2025.1-PI-2-Semestre" height="40"
+             src="https://img.shields.io/badge/2025.1--PI--2--Semestre-%E2%86%92%20abrir-8B5CF6?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jmcardoso18/PI_3Semestre_2-2025" target="_blank">
+        <img alt="PI_3Semestre_2-2025" height="40"
+             src="https://img.shields.io/badge/PI__3Semestre__2--2025-%E2%86%92%20abrir-8B5CF6?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Projeto-Integrador-Grupo-01" target="_blank">
+        <img alt="Projeto-Integrador-Grupo-01" height="40"
+             src="https://img.shields.io/badge/Projeto--Integrador--Grupo--01-%E2%86%92%20abrir-8B5CF6?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Projeto Ecommerce -->
-  <a href="https://github.com/jmcardoso18/2025.1-PI-2-Semestre" target="_blank">
-    <img alt="Projeto Ecommerce" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jmcardoso18&repo=2025.1-PI-2-Semestre&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=6EE7F9&bg_color=0d1117" />
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- Projeto Gestão Cerimonial -->
-  <a href="https://github.com/jmcardoso18/PI_3Semestre_2-2025" target="_blank">
-    <img alt="Gestão Cerimonial - Em andamento" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jmcardoso18&repo=PI_3Semestre_2-2025&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=6EE7F9&bg_color=0d1117" />
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- Loja de Games -->
-  <a href="https://github.com/LemesdeMorais/lojadegames" target="_blank">
-    <img alt="Loja de Games - Full Stack JAVA - Em andamento" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=LemesdeMorais&repo=lojadegames&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=6EE7F9&bg_color=0d1117" />
-  </a>
-
-
-<a href="https://github.com/Projeto-Integrador-Grupo-01" target="_blank">
-  <img alt="Projeto Integrador - Full Stack JAVA" height="120" src="https://img.shields.io/badge/Projeto%20Integrador-Full%20Stack%20JAVA-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-  
-</p>
 
 
 
