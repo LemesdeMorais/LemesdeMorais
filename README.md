@@ -129,7 +129,7 @@ Apaixonada por tecnologia, adoro transformar ideias em código e aprender algo n
 
 
 <p align="center">
-  🌟 Explore mais repositórios no meu <a href="https://github.com/LemesdeMorais" target="_blank"><b>GitHub</b></a>!
+  🌟 Explore mais repositórios no meu <a href="https://github.com/LemesdeMorais?tab=repositories" target="_blank"><b>GitHub</b></a>!
 </p>
 
 
