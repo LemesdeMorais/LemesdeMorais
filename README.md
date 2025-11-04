@@ -5,7 +5,7 @@
 
 
 
-## 🚀 Sobre mim  
+<h2 align="center"> 🚀 Sobre mim  </h2>
 Pode me chamar de **Rafa**! 💜  
 Sou **formada em Desenvolvimento de Software Multiplataforma** pela **FATEC** e **Desenvolvedora Full Stack em Java** pela **Generation Brasil**.  
 Apaixonada por tecnologia, adoro transformar ideias em código e aprender algo novo todos os dias. 🚀
