@@ -10,12 +10,14 @@ Pode me chamar de **Rafa**! 💜
 Sou **formada em Desenvolvimento de Software Multiplataforma** pela **FATEC** e **Desenvolvedora Full Stack em Java** pela **Generation Brasil**.  
 Apaixonada por tecnologia, adoro transformar ideias em código e aprender algo novo todos os dias. 🚀
 
+##
+
 <div>
     <a href="https://github.com/LemesdeMorais">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LemesdeMorais&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LemesdeMorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github.com/LemesdeMorais">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemesdeMorais&layout=compact&langs_count=16&theme=darcula"/>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemesdeMorais&layout=compact&langs_count=16&theme=tokyonight"/>
     </a>
 </div>
 
