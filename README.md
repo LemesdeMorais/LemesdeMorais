@@ -12,7 +12,7 @@ Apaixonada por tecnologia, adoro transformar ideias em código e aprender algo n
 
 ##
 
-<div>
+<div align="center">
     <a href="https://github.com/LemesdeMorais">
         <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LemesdeMorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
